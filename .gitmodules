@@ -1,0 +1,6 @@
+[submodule "TicTacToeClient"]
+	path = TicTacToeClient
+	url = https://github.com/MohamedEldefrawy/TicTacToeClient.git
+[submodule "TicTacToeServer"]
+	path = TicTacToeServer
+	url = https://github.com/MohamedEldefrawy/TicTacToeServer.git
